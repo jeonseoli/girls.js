@@ -35,8 +35,9 @@ function bindEvents() {
 
 bindEvents();
 
-function autorotate() {
-    setInterval(slideToNext, 4000);
-}
 
-autorotate();
+//function autorotate() {
+//    setInterval(slideToNext, 4000);
+//}
+
+//autorotate();
